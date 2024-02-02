@@ -12,7 +12,7 @@ int main(void)
 	{
 	if (i < 10)
 	{
-	hexDigit = 'O' + i;
+	hexDigit = '0' + i;
 	}
 	else
 	{
