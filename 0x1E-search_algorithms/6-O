@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+#space complexity of this function / algorithm?
+O(n * m)
