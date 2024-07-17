@@ -1,0 +1,5 @@
+#/usr/bin/bash
+
+#(worst case) of a binary search in an array of size n?
+O(log n)
+
